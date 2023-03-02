@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import AppMentor from './AppMentor';
+import AppMentors from './AppMentors';
+import AppXY from './AppXY';
+import AppJSX from './basic/App';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <AppMentors />
   </React.StrictMode>
 );
 
