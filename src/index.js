@@ -1,9 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AppMentor from './AppMentor';
 import AppMentors from './AppMentors';
-import AppXY from './AppXY';
-import AppJSX from './basic/App';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
